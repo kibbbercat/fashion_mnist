@@ -5,3 +5,4 @@
 
 Нейромережа навчена на відкритому датасеті fashion_mnist 
 
+![Image alt](https://github.com/kibbbercat/fashion_mnist/blob/main/img/output_T-shirt.png)
