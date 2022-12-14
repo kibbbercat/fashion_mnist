@@ -2,6 +2,10 @@
 
 ![Image alt](https://github.com/kibbbercat/fashion_mnist/blob/main/img/output.png)
 
+Python
+matplotlib
+tensorflow 
+keras
 
 Нейромережа навчена на відкритому датасеті fashion_mnist 
 
